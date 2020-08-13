@@ -1,0 +1,132 @@
+.body {
+		width: 100%;
+		height: 100%;
+		padding: 0;
+		margin: 0px ;
+}
+	
+#über{
+	background-color: pink;
+		padding: 20px 60px;
+		margin: 30px;
+}
+#hinweis{
+	background-color: pink;
+	padding: 20px 60px;
+	margin: 30px;
+	font-size: 30px;
+}
+#navigation{
+	background-color: pink;
+	padding: 20px 60px;
+	margin: 30px;
+	font-size: 30px;
+}
+#hauptteil{
+	background-color: aqua;
+	padding: 20px;
+	font-size: 30px;
+}
+
+.startbild{
+	background-image: url("../images/background.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 150px;
+
+}
+
+.ueber{
+	background-color:aqua;
+	padding: 1px 60px;
+	text-align: left;
+	font-size: 30px;
+
+
+
+}
+
+
+
+*
+{
+	font-family: "arial";
+	size: 100%;
+	
+}
+
+
+
+
+
+.navlist{
+	float: left;
+
+}
+.navlist li{
+	display: inline-block;
+}
+.navlist h1{
+	display: inline-block;
+}
+.navbar{
+	background-color: grey;
+	height: 75px;
+
+}
+.navlist li a{
+		color: #fff;
+		margin: 20px; 
+		font-size: 35px;
+		text-decoration: none;
+}
+.navlist li a:hover{ 
+	color:aqua;
+	text-decoration: none;
+
+}
+
+
+.text-center{
+		font-size: 58px;
+		text-align: center;
+		color: #fff;
+		
+
+}
+
+#über h3{
+	font-size: 35px;
+}
+
+
+
+
+
+.startbildc{
+	background-image: url("../images/cbackground.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 190px;
+
+}
+
+#fmsmith{
+	background-color: pink;
+	padding: 20px 60px;
+	margin: 10px;
+	font-size: 30px;
+
+}
+
+#fmsmith h1{
+	font-size: 35px;
+}
+
+.cpb{
+	background-color: aqua;
+	margin: 20px;
+	width: 25%;
+	padding: 30px;
+	font-weight: bold;
+}
